@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "359235127737",
+    "project_id": "itnovus-ab73b",
+    "storage_bucket": "itnovus-ab73b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359235127737:android:14fa00b1d59bca87af0e68",
+        "android_client_info": {
+          "package_name": "com.example.itnovus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359235127737-ua5tda2vd1c4mvkmnidv0rbavram4t8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9hkn2qOCjlF9NBpTwBpmxZdVmuMZxF7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359235127737-ua5tda2vd1c4mvkmnidv0rbavram4t8l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
